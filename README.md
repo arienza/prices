@@ -66,4 +66,7 @@ docker run -p 8080:8080 prices/pricesgrid
 ```
 
 
+### Swagger
+The API is implemented with Swagger. Once started, it can be accessed through this link: _http://localhost:8080/swagger-ui/_
+
 If you have any questions or comments, feel free to reach me out at: [pablo.arienza@kairosds.com](mailto:pablo.arienza@kairosds.com)
